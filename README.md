@@ -1,5 +1,3 @@
 ### Hi there 👋
-| <a href="https://github.com/yinjg1997/github-readme-stats"><img align="center" src="https://github-readme-stats-kd4gykn5g-yinjg1997.vercel.app/api?username=yinjg1997&show_icons=true&hide_border=true&count_private=true" alt="yinjg1997's github stats" /></a> |
-| ------------- |
-
+![yinjg's GitHub Stats](https://github-readme-stats-touchczy.vercel.app/api?icon_color=666&hide_border=true&title_color=333&username=yinjg1997&show_icons=true&tdsourcetag=s_pctim_aiomsg&count_private=true&include_all_commits=true)
 
